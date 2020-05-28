@@ -15,20 +15,20 @@
 &emsp;&emsp;Juntao Gao: Complete the cli unit test and final experimental reports.<br>
 
 ### Discription ###
-&emsp;&emsp;&emsp;&emsp;CLI.py  <br>
-&emsp;&emsp;&emsp;&emsp; the library for building a command-line interface by decorators<br>
+&emsp;&emsp;CLI.py  <br>
+&emsp;&emsp; the library for building a command-line interface by decorators<br>
 
-&emsp;&emsp;&emsp;&emsp;example.py  <br>
-&emsp;&emsp;&emsp;&emsp;An example using cli decorator <br>
+&emsp;&emsp;example.py  <br>
+&emsp;&emsp;An example using cli decorator <br>
 
-&emsp;&emsp;&emsp;&emsp;unit_test.py<br>
-&emsp;&emsp;&emsp;&emsp;For unit testing<br>
+&emsp;&emsp;unit_test.py<br>
+&emsp;&emsp;For unit testing<br>
 
-&emsp;&emsp;&emsp;&emsp;1.txt, new.txt, file.txt<br>
-&emsp;&emsp;&emsp;&emsp;For unit testing cat command<br>
+&emsp;&emsp;1.txt, new.txt, file.txt<br>
+&emsp;&emsp;For unit testing cat command<br>
 
-&emsp;&emsp;&emsp;&emsp;hex.txt<br>
-&emsp;&emsp;&emsp;&emsp;For unit testing hex command<br>
+&emsp;&emsp;hex.txt<br>
+&emsp;&emsp;For unit testing hex command<br>
 
 ### To proof usability, you should implement single command-line utilities that demonstrate all library features.
 ***1、support of flags with default values***<br>
