@@ -30,7 +30,7 @@
 &emsp;&emsp;hex.txt<br>
 &emsp;&emsp;For unit testing hex command<br>
 
-### To proof usability, you should implement single command-line utilities that demonstrate all library features.
+### To proof usability,implement single command-line utilities that demonstrate all library features.
 ***1、support of flags with default values***<br>
 Output version information:
 
