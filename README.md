@@ -37,6 +37,16 @@ Output version information:
 ![](https://github.com/GJTNB/cpolab3/blob/master/images/1_1.png)
 
 ***2、support of position arguments***<br>
+Output the path of the specified file
+
+![](https://github.com/GJTNB/cpolab3/blob/master/images/7_1.png)
+
+***3、support named arguments with default values***<br>
+Read the contents in the file:
+
+![](https://github.com/GJTNB/cpolab3/blob/master/images/3_1.png)
+
+***4、support of sub-commands with a different set of arguments***<br>
 add data to the file:
 
 ![](https://github.com/GJTNB/cpolab3/blob/master/images/2_1.png)
@@ -51,14 +61,6 @@ Download files via http:
 
 ![](https://github.com/GJTNB/cpolab3/blob/master/images/2_5.png)
 ![](https://github.com/GJTNB/cpolab3/blob/master/images/2_6.png)
-
-***3、support named arguments with default values***<br>
-Read the contents in the file:
-
-![](https://github.com/GJTNB/cpolab3/blob/master/images/3_1.png)
-
-***4、support of sub-commands with a different set of arguments***<br>
-
 
 ***5、support help***<br>
 Output help information:
