@@ -32,6 +32,7 @@
 
 ### To proof usability, you should implement single command-line utilities that demonstrate all library features.
 ***1、support of flags with default values***<br>
+![](https://github.com/GJTNB/cpolab3/blob/master/images/1_1.png)
 
 ***2、support of position arguments***<br>
 
