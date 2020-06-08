@@ -75,4 +75,4 @@ Change the input value to hex and save it to the hex.txt:
 
 ***7、Pass a simple variable value***<br>
 
-![](https://github.com/GJTNB/cpolab3/blob/master/images/7_1.png)
+![](https://github.com/GJTNB/cpolab3/blob/master/images/8_1.png)
